@@ -12,6 +12,12 @@
     border-bottom: #444 dotted 2px;
 }
 
+/*showcase*/
+#showcase {
+    height: 100%;
+}
+
+
 /*home-info*/
 #home-info .info-img {
     display: none;
